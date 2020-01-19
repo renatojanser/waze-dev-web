@@ -1,5 +1,5 @@
 <h1 align="center">
-  Waze Devs React WEb
+  Waze Devs React Web
 </h1>
 
 <p align="center">
@@ -16,11 +16,9 @@ Nesse Aplicativo WEb em React "Waze Devs" cadastrar devs e suas tecnologias usad
 - [Renato Janser](https://github.com/renatojanser)
 
 
-## Tecnologias
-
-
 ## Pré-requisitos
 
+- [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
 
@@ -29,6 +27,9 @@ Nesse Aplicativo WEb em React "Waze Devs" cadastrar devs e suas tecnologias usad
 1. Faça um clone desse repositório;
 2. Entre na pasta `cd waze-dev-web`;
 3. Rode `yarn` para instalar as dependências;
+3. Rode `yarn start` para iniciar a aplicação.
+
+Para ver o projeto você pode abrir [localhost:3000](http://localhost:3000) no seu navegador.
 
 ## Licença
 
