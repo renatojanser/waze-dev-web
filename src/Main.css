@@ -50,3 +50,20 @@ li.dev-item p {
     line-height: 20px;
     margin: 10px 0;
 }
+
+li.dev-item a {
+    color: #8e4dff;
+    font-size: 14px;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+li.dev-item a:hover {
+    color: #5a2ea6;
+}
+
+@media (max-width: 650px) {
+    main ul {
+        grid-template-columns: 1fr;
+    }
+}
